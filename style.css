@@ -5,3 +5,9 @@
     font-weight: 400;
     font-style: normal;
 }
+
+.version {
+    position: fixed;
+    bottom: -7.5px;
+    left: 10px;
+}
